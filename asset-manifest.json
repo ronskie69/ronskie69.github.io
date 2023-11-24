@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.572a95f7.css",
-    "main.js": "/static/js/main.ab37c0af.js",
+    "main.js": "/static/js/main.90579621.js",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
     "static/media/nogsumusic.jpg": "/static/media/nogsumusic.57344e0b53973fbbd752.jpg",
@@ -30,6 +30,7 @@
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/kr_photography.jpg": "/static/media/kr_photography.badcaab6ecae86577a6d.jpg",
     "static/media/bfoods.webp": "/static/media/bfoods.05d8e594f480f3dbe50f.webp",
+    "static/media/figma.JPG": "/static/media/figma.fb0cdf0e8e1933b989fc.JPG",
     "static/media/logo.png": "/static/media/logo.5a9f013f459598fea2f0.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.d5210cdeab1bc94309c4.png",
     "static/media/slvl1.webp": "/static/media/slvl1.d69f81798fb6d76b90c0.webp",
@@ -43,10 +44,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.572a95f7.css.map": "/static/css/main.572a95f7.css.map",
-    "main.ab37c0af.js.map": "/static/js/main.ab37c0af.js.map"
+    "main.90579621.js.map": "/static/js/main.90579621.js.map"
   },
   "entrypoints": [
     "static/css/main.572a95f7.css",
-    "static/js/main.ab37c0af.js"
+    "static/js/main.90579621.js"
   ]
 }
