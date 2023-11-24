@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.572a95f7.css",
-    "main.js": "/static/js/main.90579621.js",
+    "main.js": "/static/js/main.3f93498f.js",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
     "static/media/nogsumusic.jpg": "/static/media/nogsumusic.57344e0b53973fbbd752.jpg",
@@ -38,16 +38,16 @@
     "static/media/Black-coffee.ttf": "/static/media/Black-coffee.7245e3cbcaf5f81a7a84.ttf",
     "static/media/jquery.png": "/static/media/jquery.27381bbfef361e06bd0d.png",
     "static/media/reactjs.png": "/static/media/reactjs.20adfb35ae6a6e5817bf.png",
+    "static/media/javadroid.png": "/static/media/javadroid.6506a70bb202d040b65c.png",
     "static/media/kapeling.jpg": "/static/media/kapeling.815256721b632d4bbab5.jpg",
     "static/media/quiz.png": "/static/media/quiz.bc408a6bf3b21aa4a745.png",
-    "static/media/codei.png": "/static/media/codei.ee268f830e1f52ab55a1.png",
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.572a95f7.css.map": "/static/css/main.572a95f7.css.map",
-    "main.90579621.js.map": "/static/js/main.90579621.js.map"
+    "main.3f93498f.js.map": "/static/js/main.3f93498f.js.map"
   },
   "entrypoints": [
     "static/css/main.572a95f7.css",
-    "static/js/main.90579621.js"
+    "static/js/main.3f93498f.js"
   ]
 }
