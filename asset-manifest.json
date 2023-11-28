@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.572a95f7.css",
-    "main.js": "/static/js/main.3f93498f.js",
+    "main.js": "/static/js/main.23fbe7b4.js",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
     "static/media/nogsumusic.jpg": "/static/media/nogsumusic.57344e0b53973fbbd752.jpg",
@@ -20,9 +20,9 @@
     "static/media/90ss.webp": "/static/media/90ss.968d514d907e0cd367cb.webp",
     "static/media/ako.jpg": "/static/media/ako.5282689065a60674e5f8.jpg",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/mexxxxx.webp": "/static/media/mexxxxx.dc68ed3ff2e8a40067d8.webp",
     "static/media/quizpinas2.png": "/static/media/quizpinas2.5e0659c3c0b28b914feb.png",
     "static/media/eims.png": "/static/media/eims.55aff81f081e96165e02.png",
+    "static/media/kamote_rider.jpg": "/static/media/kamote_rider.9941b156ef1ebcf8d78d.jpg",
     "static/media/payroll.webp": "/static/media/payroll.86ec3e4854d4624e261c.webp",
     "static/media/Gruppo-Regular.ttf": "/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
     "static/media/lms.jpg": "/static/media/lms.606ef4ec91a26bbe0927.jpg",
@@ -44,10 +44,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.572a95f7.css.map": "/static/css/main.572a95f7.css.map",
-    "main.3f93498f.js.map": "/static/js/main.3f93498f.js.map"
+    "main.23fbe7b4.js.map": "/static/js/main.23fbe7b4.js.map"
   },
   "entrypoints": [
     "static/css/main.572a95f7.css",
-    "static/js/main.3f93498f.js"
+    "static/js/main.23fbe7b4.js"
   ]
 }
