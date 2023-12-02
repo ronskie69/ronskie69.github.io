@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.572a95f7.css",
-    "main.js": "/static/js/main.05ed91da.js",
+    "main.js": "/static/js/main.1ca6b9e9.js",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
     "static/media/nogsumusic.jpg": "/static/media/nogsumusic.57344e0b53973fbbd752.jpg",
@@ -44,10 +44,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.572a95f7.css.map": "/static/css/main.572a95f7.css.map",
-    "main.05ed91da.js.map": "/static/js/main.05ed91da.js.map"
+    "main.1ca6b9e9.js.map": "/static/js/main.1ca6b9e9.js.map"
   },
   "entrypoints": [
     "static/css/main.572a95f7.css",
-    "static/js/main.05ed91da.js"
+    "static/js/main.1ca6b9e9.js"
   ]
 }
