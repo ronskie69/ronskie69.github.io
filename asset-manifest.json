@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dbae274f.css",
-    "main.js": "/static/js/main.4d007232.js",
+    "main.js": "/static/js/main.0e5b041f.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -11,6 +11,7 @@
     "static/media/checklist.jpg": "/static/media/checklist.c810c6b092afc10ef2bf.jpg",
     "static/media/cw.jpg": "/static/media/cw.2fb370cdbfa9cba670d7.jpg",
     "static/media/covid.jpg": "/static/media/covid.67f479431e742933c6cb.jpg",
+    "static/media/sku_gen.png": "/static/media/sku_gen.b1a8981ce7930fd0983e.png",
     "static/media/robex.png": "/static/media/robex.9abbb7f07bc94a496a5c.png",
     "static/media/queenburger.jpg": "/static/media/queenburger.e05f5fb1a219a26c66c8.jpg",
     "static/media/cookingnina.webp": "/static/media/cookingnina.b8c76d7d9e43b8afa60f.webp",
@@ -29,7 +30,6 @@
     "static/media/Black-coffee-shadow.ttf": "/static/media/Black-coffee-shadow.38c79214cdf74a0b6ea0.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/kr_photography.jpg": "/static/media/kr_photography.badcaab6ecae86577a6d.jpg",
-    "static/media/sku_gen.jpg": "/static/media/sku_gen.a40f400fb988d8d4ce4f.jpg",
     "static/media/bfoods.webp": "/static/media/bfoods.05d8e594f480f3dbe50f.webp",
     "static/media/figma.JPG": "/static/media/figma.fb0cdf0e8e1933b989fc.JPG",
     "static/media/logo.png": "/static/media/logo.5a9f013f459598fea2f0.png",
@@ -46,10 +46,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.dbae274f.css.map": "/static/css/main.dbae274f.css.map",
-    "main.4d007232.js.map": "/static/js/main.4d007232.js.map"
+    "main.0e5b041f.js.map": "/static/js/main.0e5b041f.js.map"
   },
   "entrypoints": [
     "static/css/main.dbae274f.css",
-    "static/js/main.4d007232.js"
+    "static/js/main.0e5b041f.js"
   ]
 }
