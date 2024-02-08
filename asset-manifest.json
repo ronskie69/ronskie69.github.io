@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dbae274f.css",
-    "main.js": "/static/js/main.0e5b041f.js",
+    "main.js": "/static/js/main.2a34c171.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -11,7 +11,7 @@
     "static/media/checklist.jpg": "/static/media/checklist.c810c6b092afc10ef2bf.jpg",
     "static/media/cw.jpg": "/static/media/cw.2fb370cdbfa9cba670d7.jpg",
     "static/media/covid.jpg": "/static/media/covid.67f479431e742933c6cb.jpg",
-    "static/media/sku_gen.png": "/static/media/sku_gen.b1a8981ce7930fd0983e.png",
+    "static/media/sku_gen.png": "/static/media/sku_gen.2007a1c638d955adbeaf.png",
     "static/media/robex.png": "/static/media/robex.9abbb7f07bc94a496a5c.png",
     "static/media/queenburger.jpg": "/static/media/queenburger.e05f5fb1a219a26c66c8.jpg",
     "static/media/cookingnina.webp": "/static/media/cookingnina.b8c76d7d9e43b8afa60f.webp",
@@ -46,10 +46,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.dbae274f.css.map": "/static/css/main.dbae274f.css.map",
-    "main.0e5b041f.js.map": "/static/js/main.0e5b041f.js.map"
+    "main.2a34c171.js.map": "/static/js/main.2a34c171.js.map"
   },
   "entrypoints": [
     "static/css/main.dbae274f.css",
-    "static/js/main.0e5b041f.js"
+    "static/js/main.2a34c171.js"
   ]
 }
