@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.572a95f7.css",
-    "main.js": "/static/js/main.d49e25d6.js",
+    "main.js": "/static/js/main.15cd48c0.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -22,6 +22,7 @@
     "static/media/phone_xiomai.webp": "/static/media/phone_xiomai.06858e3eab6f85c5b9e3.webp",
     "static/media/90ss.webp": "/static/media/90ss.968d514d907e0cd367cb.webp",
     "static/media/ako.jpg": "/static/media/ako.5282689065a60674e5f8.jpg",
+    "static/media/showroom.jpg": "/static/media/showroom.7a6ef52f412da3ae08f8.jpg",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/quizpinas2.png": "/static/media/quizpinas2.5e0659c3c0b28b914feb.png",
     "static/media/payroll.webp": "/static/media/payroll.86ec3e4854d4624e261c.webp",
@@ -46,10 +47,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.572a95f7.css.map": "/static/css/main.572a95f7.css.map",
-    "main.d49e25d6.js.map": "/static/js/main.d49e25d6.js.map"
+    "main.15cd48c0.js.map": "/static/js/main.15cd48c0.js.map"
   },
   "entrypoints": [
     "static/css/main.572a95f7.css",
-    "static/js/main.d49e25d6.js"
+    "static/js/main.15cd48c0.js"
   ]
 }
