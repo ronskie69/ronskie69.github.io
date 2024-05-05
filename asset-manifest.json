@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.572a95f7.css",
-    "main.js": "/static/js/main.482c38fc.js",
+    "main.js": "/static/js/main.4966a795.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -27,12 +27,12 @@
     "static/media/hire_resig.jpg": "/static/media/hire_resig.425f0418f1a8a982ce2a.jpg",
     "static/media/siomai_legends.jpg": "/static/media/siomai_legends.dcba7f4aa63ef35716d3.jpg",
     "static/media/payroll.webp": "/static/media/payroll.86ec3e4854d4624e261c.webp",
-    "static/media/ako_tox.jpg": "/static/media/ako_tox.40af504aedc02e5a63f1.jpg",
     "static/media/Gruppo-Regular.ttf": "/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
     "static/media/lms.jpg": "/static/media/lms.606ef4ec91a26bbe0927.jpg",
     "static/media/Black-coffee-shadow.ttf": "/static/media/Black-coffee-shadow.38c79214cdf74a0b6ea0.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/kr_photography.jpg": "/static/media/kr_photography.badcaab6ecae86577a6d.jpg",
+    "static/media/meee.jpg": "/static/media/meee.74ce6f5eabdbcbce1d5e.jpg",
     "static/media/bfoods.webp": "/static/media/bfoods.05d8e594f480f3dbe50f.webp",
     "static/media/figma.JPG": "/static/media/figma.fb0cdf0e8e1933b989fc.JPG",
     "static/media/logo.png": "/static/media/logo.5a9f013f459598fea2f0.png",
@@ -48,10 +48,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.572a95f7.css.map": "/static/css/main.572a95f7.css.map",
-    "main.482c38fc.js.map": "/static/js/main.482c38fc.js.map"
+    "main.4966a795.js.map": "/static/js/main.4966a795.js.map"
   },
   "entrypoints": [
     "static/css/main.572a95f7.css",
-    "static/js/main.482c38fc.js"
+    "static/js/main.4966a795.js"
   ]
 }
