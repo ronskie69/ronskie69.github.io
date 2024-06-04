@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.572a95f7.css",
-    "main.js": "/static/js/main.3a264c93.js",
+    "main.js": "/static/js/main.9888e076.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -24,13 +24,13 @@
     "static/media/ako.jpg": "/static/media/ako.5282689065a60674e5f8.jpg",
     "static/media/showroom.jpg": "/static/media/showroom.7a6ef52f412da3ae08f8.jpg",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/restaurant.xlsx": "/static/media/restaurant.11a699aa4ac84e858281.xlsx",
     "static/media/excel2.jpg": "/static/media/excel2.633d77a3961db8094a71.jpg",
     "static/media/quizpinas2.png": "/static/media/quizpinas2.5e0659c3c0b28b914feb.png",
-    "static/media/resto.xlsx": "/static/media/resto.28e82216fd2988337479.xlsx",
+    "static/media/restaurant.jpg": "/static/media/restaurant.b055663057a74c09b4c7.jpg",
     "static/media/hire_resig.jpg": "/static/media/hire_resig.425f0418f1a8a982ce2a.jpg",
     "static/media/siomai_legends.jpg": "/static/media/siomai_legends.dcba7f4aa63ef35716d3.jpg",
     "static/media/excel1.jpg": "/static/media/excel1.b22531aa2cd5cb0e6b7d.jpg",
-    "static/media/dashboard_excel.png": "/static/media/dashboard_excel.1e2c883c1199251e2c39.png",
     "static/media/payroll.webp": "/static/media/payroll.86ec3e4854d4624e261c.webp",
     "static/media/employee_data.xlsx": "/static/media/employee_data.aeee45c6fbaaef6380a4.xlsx",
     "static/media/Gruppo-Regular.ttf": "/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
@@ -54,10 +54,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.572a95f7.css.map": "/static/css/main.572a95f7.css.map",
-    "main.3a264c93.js.map": "/static/js/main.3a264c93.js.map"
+    "main.9888e076.js.map": "/static/js/main.9888e076.js.map"
   },
   "entrypoints": [
     "static/css/main.572a95f7.css",
-    "static/js/main.3a264c93.js"
+    "static/js/main.9888e076.js"
   ]
 }
