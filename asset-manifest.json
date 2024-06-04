@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.572a95f7.css",
+    "main.css": "/static/css/main.21be6f76.css",
     "main.js": "/static/js/main.b10a51ed.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
@@ -16,6 +16,7 @@
     "static/media/queenburger.jpg": "/static/media/queenburger.e05f5fb1a219a26c66c8.jpg",
     "static/media/cookingnina.webp": "/static/media/cookingnina.b8c76d7d9e43b8afa60f.webp",
     "static/media/mysql.png": "/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/pet_service.webp": "/static/media/pet_service.1106251195b3e30af948.webp",
     "static/media/Museo.ttf": "/static/media/Museo.7a8c5fe2d992ace8b7ec.ttf",
     "static/media/php.png": "/static/media/php.502c1a901665a0453b5c.png",
@@ -23,7 +24,6 @@
     "static/media/90ss.webp": "/static/media/90ss.968d514d907e0cd367cb.webp",
     "static/media/ako.jpg": "/static/media/ako.5282689065a60674e5f8.jpg",
     "static/media/showroom.jpg": "/static/media/showroom.7a6ef52f412da3ae08f8.jpg",
-    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/restaurant.xlsx": "/static/media/restaurant.11a699aa4ac84e858281.xlsx",
     "static/media/excel2.jpg": "/static/media/excel2.633d77a3961db8094a71.jpg",
     "static/media/quizpinas2.png": "/static/media/quizpinas2.5e0659c3c0b28b914feb.png",
@@ -56,11 +56,11 @@
     "static/media/quiz.png": "/static/media/quiz.bc408a6bf3b21aa4a745.png",
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
-    "main.572a95f7.css.map": "/static/css/main.572a95f7.css.map",
+    "main.21be6f76.css.map": "/static/css/main.21be6f76.css.map",
     "main.b10a51ed.js.map": "/static/js/main.b10a51ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.572a95f7.css",
+    "static/css/main.21be6f76.css",
     "static/js/main.b10a51ed.js"
   ]
 }
