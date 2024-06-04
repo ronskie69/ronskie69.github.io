@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21be6f76.css",
-    "main.js": "/static/js/main.2c868c1e.js",
+    "main.js": "/static/js/main.1c98a171.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -34,7 +34,6 @@
     "static/media/payroll.webp": "/static/media/payroll.86ec3e4854d4624e261c.webp",
     "static/media/employee_data.xlsx": "/static/media/employee_data.aeee45c6fbaaef6380a4.xlsx",
     "static/media/Gruppo-Regular.ttf": "/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
-    "static/media/lms.jpg": "/static/media/lms.606ef4ec91a26bbe0927.jpg",
     "static/media/Black-coffee-shadow.ttf": "/static/media/Black-coffee-shadow.38c79214cdf74a0b6ea0.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/kr_photography.jpg": "/static/media/kr_photography.badcaab6ecae86577a6d.jpg",
@@ -57,10 +56,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.21be6f76.css.map": "/static/css/main.21be6f76.css.map",
-    "main.2c868c1e.js.map": "/static/js/main.2c868c1e.js.map"
+    "main.1c98a171.js.map": "/static/js/main.1c98a171.js.map"
   },
   "entrypoints": [
     "static/css/main.21be6f76.css",
-    "static/js/main.2c868c1e.js"
+    "static/js/main.1c98a171.js"
   ]
 }
