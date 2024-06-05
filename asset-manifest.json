@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21be6f76.css",
-    "main.js": "/static/js/main.4f2d3af9.js",
+    "main.js": "/static/js/main.7a11053b.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -31,6 +31,7 @@
     "static/media/hire_resig.jpg": "/static/media/hire_resig.425f0418f1a8a982ce2a.jpg",
     "static/media/siomai_legends.jpg": "/static/media/siomai_legends.dcba7f4aa63ef35716d3.jpg",
     "static/media/excel1.jpg": "/static/media/excel1.b22531aa2cd5cb0e6b7d.jpg",
+    "static/media/powerbi_practice.jpg": "/static/media/powerbi_practice.1c1542b4d5661c69f9cd.jpg",
     "static/media/employee_data.xlsx": "/static/media/employee_data.aeee45c6fbaaef6380a4.xlsx",
     "static/media/Gruppo-Regular.ttf": "/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
     "static/media/Black-coffee-shadow.ttf": "/static/media/Black-coffee-shadow.38c79214cdf74a0b6ea0.ttf",
@@ -55,10 +56,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.21be6f76.css.map": "/static/css/main.21be6f76.css.map",
-    "main.4f2d3af9.js.map": "/static/js/main.4f2d3af9.js.map"
+    "main.7a11053b.js.map": "/static/js/main.7a11053b.js.map"
   },
   "entrypoints": [
     "static/css/main.21be6f76.css",
-    "static/js/main.4f2d3af9.js"
+    "static/js/main.7a11053b.js"
   ]
 }
