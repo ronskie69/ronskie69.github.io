@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21be6f76.css",
-    "main.js": "/static/js/main.c3d2166d.js",
+    "main.js": "/static/js/main.bcbae0b7.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -37,6 +37,7 @@
     "static/media/tourism.jpg": "/static/media/tourism.3b3cce03a8531b720096.jpg",
     "static/media/powerbi_practice.jpg": "/static/media/powerbi_practice.1c1542b4d5661c69f9cd.jpg",
     "static/media/employee_data.xlsx": "/static/media/employee_data.aeee45c6fbaaef6380a4.xlsx",
+    "static/media/covidBI.png": "/static/media/covidBI.21030a50abf7cb3a974e.png",
     "static/media/Gruppo-Regular.ttf": "/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
     "static/media/Black-coffee-shadow.ttf": "/static/media/Black-coffee-shadow.38c79214cdf74a0b6ea0.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
@@ -51,6 +52,7 @@
     "static/media/sales_table.xlsx": "/static/media/sales_table.82b668eaf38ad8f6400a.xlsx",
     "static/media/rain.gif": "/static/media/rain.d638ceb217c3c769ccdd.gif",
     "static/media/Black-coffee.ttf": "/static/media/Black-coffee.7245e3cbcaf5f81a7a84.ttf",
+    "static/media/hospitalx.pbix": "/static/media/hospitalx.65f3df28892309177196.pbix",
     "static/media/canva.webp": "/static/media/canva.753a924e5b04cec31112.webp",
     "static/media/jquery.png": "/static/media/jquery.27381bbfef361e06bd0d.png",
     "static/media/reactjs.png": "/static/media/reactjs.20adfb35ae6a6e5817bf.png",
@@ -61,10 +63,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.21be6f76.css.map": "/static/css/main.21be6f76.css.map",
-    "main.c3d2166d.js.map": "/static/js/main.c3d2166d.js.map"
+    "main.bcbae0b7.js.map": "/static/js/main.bcbae0b7.js.map"
   },
   "entrypoints": [
     "static/css/main.21be6f76.css",
-    "static/js/main.c3d2166d.js"
+    "static/js/main.bcbae0b7.js"
   ]
 }
