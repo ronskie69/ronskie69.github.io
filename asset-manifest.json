@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.e56cd1d9.js",
+    "main.js": "/static/js/main.5a58dc88.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -37,6 +37,7 @@
     "static/media/tourism.jpg": "/static/media/tourism.3b3cce03a8531b720096.jpg",
     "static/media/powerbi_practice.jpg": "/static/media/powerbi_practice.1c1542b4d5661c69f9cd.jpg",
     "static/media/employee_data.xlsx": "/static/media/employee_data.aeee45c6fbaaef6380a4.xlsx",
+    "static/media/hrd_analytics.jpg": "/static/media/hrd_analytics.7f74562db524c76872f4.jpg",
     "static/media/covidBI.png": "/static/media/covidBI.21030a50abf7cb3a974e.png",
     "static/media/Gruppo-Regular.ttf": "/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
     "static/media/Black-coffee-shadow.ttf": "/static/media/Black-coffee-shadow.38c79214cdf74a0b6ea0.ttf",
@@ -50,6 +51,7 @@
     "static/media/logo.png": "/static/media/logo.5a9f013f459598fea2f0.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.d5210cdeab1bc94309c4.png",
     "static/media/sales_table.xlsx": "/static/media/sales_table.82b668eaf38ad8f6400a.xlsx",
+    "static/media/hrd_analytics.pbix": "/static/media/hrd_analytics.027c1bb421374cd7cddf.pbix",
     "static/media/rain.gif": "/static/media/rain.d638ceb217c3c769ccdd.gif",
     "static/media/Black-coffee.ttf": "/static/media/Black-coffee.7245e3cbcaf5f81a7a84.ttf",
     "static/media/hospitalx.pbix": "/static/media/hospitalx.65f3df28892309177196.pbix",
@@ -63,10 +65,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.e56cd1d9.js.map": "/static/js/main.e56cd1d9.js.map"
+    "main.5a58dc88.js.map": "/static/js/main.5a58dc88.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.e56cd1d9.js"
+    "static/js/main.5a58dc88.js"
   ]
 }
