@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21be6f76.css",
-    "main.js": "/static/js/main.6530d196.js",
+    "main.js": "/static/js/main.88bfa1bd.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -63,10 +63,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.21be6f76.css.map": "/static/css/main.21be6f76.css.map",
-    "main.6530d196.js.map": "/static/js/main.6530d196.js.map"
+    "main.88bfa1bd.js.map": "/static/js/main.88bfa1bd.js.map"
   },
   "entrypoints": [
     "static/css/main.21be6f76.css",
-    "static/js/main.6530d196.js"
+    "static/js/main.88bfa1bd.js"
   ]
 }
