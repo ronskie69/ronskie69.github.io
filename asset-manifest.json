@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.242a3873.js",
+    "main.js": "/static/js/main.a47031fe.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -20,6 +20,7 @@
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/pet_service.webp": "/static/media/pet_service.1106251195b3e30af948.webp",
     "static/media/Museo.ttf": "/static/media/Museo.7a8c5fe2d992ace8b7ec.ttf",
+    "static/media/car_sales.pbix": "/static/media/car_sales.4003d4b280fbada210d3.pbix",
     "static/media/php.png": "/static/media/php.502c1a901665a0453b5c.png",
     "static/media/phone_xiomai.webp": "/static/media/phone_xiomai.06858e3eab6f85c5b9e3.webp",
     "static/media/90ss.webp": "/static/media/90ss.968d514d907e0cd367cb.webp",
@@ -33,6 +34,7 @@
     "static/media/employees.pbix": "/static/media/employees.efa230b07eaec3b39c82.pbix",
     "static/media/hire_resig.jpg": "/static/media/hire_resig.425f0418f1a8a982ce2a.jpg",
     "static/media/siomai_legends.jpg": "/static/media/siomai_legends.dcba7f4aa63ef35716d3.jpg",
+    "static/media/car_sales.jpg": "/static/media/car_sales.452868fbcd29fc422306.jpg",
     "static/media/excel1.jpg": "/static/media/excel1.b22531aa2cd5cb0e6b7d.jpg",
     "static/media/tourism.jpg": "/static/media/tourism.3b3cce03a8531b720096.jpg",
     "static/media/powerbi_practice.jpg": "/static/media/powerbi_practice.1c1542b4d5661c69f9cd.jpg",
@@ -64,10 +66,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.242a3873.js.map": "/static/js/main.242a3873.js.map"
+    "main.a47031fe.js.map": "/static/js/main.a47031fe.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.242a3873.js"
+    "static/js/main.a47031fe.js"
   ]
 }
