@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.a47031fe.js",
+    "main.js": "/static/js/main.09d17f74.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -37,7 +37,6 @@
     "static/media/car_sales.jpg": "/static/media/car_sales.452868fbcd29fc422306.jpg",
     "static/media/excel1.jpg": "/static/media/excel1.b22531aa2cd5cb0e6b7d.jpg",
     "static/media/tourism.jpg": "/static/media/tourism.3b3cce03a8531b720096.jpg",
-    "static/media/powerbi_practice.jpg": "/static/media/powerbi_practice.1c1542b4d5661c69f9cd.jpg",
     "static/media/employee_data.xlsx": "/static/media/employee_data.aeee45c6fbaaef6380a4.xlsx",
     "static/media/hrd_analytics.jpg": "/static/media/hrd_analytics.7f74562db524c76872f4.jpg",
     "static/media/covidBI.png": "/static/media/covidBI.21030a50abf7cb3a974e.png",
@@ -66,10 +65,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.a47031fe.js.map": "/static/js/main.a47031fe.js.map"
+    "main.09d17f74.js.map": "/static/js/main.09d17f74.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.a47031fe.js"
+    "static/js/main.09d17f74.js"
   ]
 }
