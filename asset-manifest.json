@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.55ec97a3.js",
+    "main.js": "/static/js/main.fbf2a1ec.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -18,7 +18,6 @@
     "static/media/cookingnina.webp": "/static/media/cookingnina.b8c76d7d9e43b8afa60f.webp",
     "static/media/mysql.png": "/static/media/mysql.167c88550478e6f0f85c.png",
     "static/media/codeigniter4.png": "/static/media/codeigniter4.10f7363b6f591c761c18.png",
-    "static/media/ako_ulit.webp": "/static/media/ako_ulit.336d9926321e68193c56.webp",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/pet_service.webp": "/static/media/pet_service.1106251195b3e30af948.webp",
     "static/media/Museo.ttf": "/static/media/Museo.7a8c5fe2d992ace8b7ec.ttf",
@@ -32,6 +31,7 @@
     "static/media/excel2.jpg": "/static/media/excel2.633d77a3961db8094a71.jpg",
     "static/media/quizpinas2.png": "/static/media/quizpinas2.5e0659c3c0b28b914feb.png",
     "static/media/restaurant.jpg": "/static/media/restaurant.b055663057a74c09b4c7.jpg",
+    "static/media/ako_ulit2.webp": "/static/media/ako_ulit2.96315ff9866926c3d7c1.webp",
     "static/media/salesx.pbix": "/static/media/salesx.6fa8c85d2803dac20048.pbix",
     "static/media/pinoyxtra.png": "/static/media/pinoyxtra.39cde6c57c622ac871f5.png",
     "static/media/employees.pbix": "/static/media/employees.efa230b07eaec3b39c82.pbix",
@@ -65,10 +65,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.55ec97a3.js.map": "/static/js/main.55ec97a3.js.map"
+    "main.fbf2a1ec.js.map": "/static/js/main.fbf2a1ec.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.55ec97a3.js"
+    "static/js/main.fbf2a1ec.js"
   ]
 }
