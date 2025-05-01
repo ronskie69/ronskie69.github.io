@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.6a213af7.js",
+    "main.js": "/static/js/main.56d284b1.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -20,6 +20,7 @@
     "static/media/codeigniter4.png": "/static/media/codeigniter4.10f7363b6f591c761c18.png",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/pet_service.webp": "/static/media/pet_service.1106251195b3e30af948.webp",
+    "static/media/ako23.jpg": "/static/media/ako23.1e8de4902482c5c59579.jpg",
     "static/media/Museo.ttf": "/static/media/Museo.7a8c5fe2d992ace8b7ec.ttf",
     "static/media/car_sales.pbix": "/static/media/car_sales.4003d4b280fbada210d3.pbix",
     "static/media/php.png": "/static/media/php.502c1a901665a0453b5c.png",
@@ -34,7 +35,6 @@
     "static/media/salesx.pbix": "/static/media/salesx.6fa8c85d2803dac20048.pbix",
     "static/media/pinoyxtra.png": "/static/media/pinoyxtra.39cde6c57c622ac871f5.png",
     "static/media/employees.pbix": "/static/media/employees.efa230b07eaec3b39c82.pbix",
-    "static/media/ako22.jpg": "/static/media/ako22.fbabed0a443be2df83b8.jpg",
     "static/media/hire_resig.jpg": "/static/media/hire_resig.425f0418f1a8a982ce2a.jpg",
     "static/media/siomai_legends.jpg": "/static/media/siomai_legends.dcba7f4aa63ef35716d3.jpg",
     "static/media/car_sales.jpg": "/static/media/car_sales.452868fbcd29fc422306.jpg",
@@ -65,10 +65,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.6a213af7.js.map": "/static/js/main.6a213af7.js.map"
+    "main.56d284b1.js.map": "/static/js/main.56d284b1.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.6a213af7.js"
+    "static/js/main.56d284b1.js"
   ]
 }
