@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.3358a324.js",
+    "main.js": "/static/js/main.7b24aa9b.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -28,6 +28,7 @@
     "static/media/90ss.webp": "/static/media/90ss.968d514d907e0cd367cb.webp",
     "static/media/ako.jpg": "/static/media/ako.5282689065a60674e5f8.jpg",
     "static/media/showroom.jpg": "/static/media/showroom.7a6ef52f412da3ae08f8.jpg",
+    "static/media/wordpress.png": "/static/media/wordpress.4cdef30256d3f8cf3534.png",
     "static/media/restaurant.xlsx": "/static/media/restaurant.11a699aa4ac84e858281.xlsx",
     "static/media/excel2.jpg": "/static/media/excel2.633d77a3961db8094a71.jpg",
     "static/media/quizpinas2.png": "/static/media/quizpinas2.5e0659c3c0b28b914feb.png",
@@ -60,14 +61,16 @@
     "static/media/jquery.png": "/static/media/jquery.27381bbfef361e06bd0d.png",
     "static/media/reactjs.png": "/static/media/reactjs.20adfb35ae6a6e5817bf.png",
     "static/media/kapeling.jpg": "/static/media/kapeling.815256721b632d4bbab5.jpg",
+    "static/media/shopify.png": "/static/media/shopify.787f084d71c11701ce70.png",
     "static/media/quiz.png": "/static/media/quiz.bc408a6bf3b21aa4a745.png",
+    "static/media/servicenow.png": "/static/media/servicenow.16113cf0de6b9919d9f2.png",
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.3358a324.js.map": "/static/js/main.3358a324.js.map"
+    "main.7b24aa9b.js.map": "/static/js/main.7b24aa9b.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.3358a324.js"
+    "static/js/main.7b24aa9b.js"
   ]
 }
