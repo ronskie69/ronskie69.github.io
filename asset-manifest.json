@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.87bac7a0.js",
+    "main.js": "/static/js/main.e832b75c.js",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -39,10 +39,12 @@
     "static/media/siomai_legends.jpg": "/static/media/siomai_legends.dcba7f4aa63ef35716d3.jpg",
     "static/media/car_sales.jpg": "/static/media/car_sales.452868fbcd29fc422306.jpg",
     "static/media/excel1.jpg": "/static/media/excel1.b22531aa2cd5cb0e6b7d.jpg",
+    "static/media/quickwiki.jpg": "/static/media/quickwiki.d016ceb35a367639a832.jpg",
     "static/media/tourism.jpg": "/static/media/tourism.3b3cce03a8531b720096.jpg",
     "static/media/employee_data.xlsx": "/static/media/employee_data.aeee45c6fbaaef6380a4.xlsx",
     "static/media/hrd_analytics.jpg": "/static/media/hrd_analytics.7f74562db524c76872f4.jpg",
     "static/media/covidBI.png": "/static/media/covidBI.21030a50abf7cb3a974e.png",
+    "static/media/kamotex.jpg": "/static/media/kamotex.3077f7acf670138749bc.jpg",
     "static/media/Gruppo-Regular.ttf": "/static/media/Gruppo-Regular.2393675620be8c54ff95.ttf",
     "static/media/Black-coffee-shadow.ttf": "/static/media/Black-coffee-shadow.38c79214cdf74a0b6ea0.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
@@ -67,10 +69,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.87bac7a0.js.map": "/static/js/main.87bac7a0.js.map"
+    "main.e832b75c.js.map": "/static/js/main.e832b75c.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.87bac7a0.js"
+    "static/js/main.e832b75c.js"
   ]
 }
