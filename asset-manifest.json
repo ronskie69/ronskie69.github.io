@@ -1,7 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.5dd9eb53.js",
+    "main.js": "/static/js/main.420f8d2e.js",
+    "static/media/guinness.jpg": "/static/media/guinness.19b5d01ae5a45bd90dce.jpg",
+    "static/media/best_presenter.jpg": "/static/media/best_presenter.008f784afacbdd6eddc2.jpg",
+    "static/media/supply_chain.png": "/static/media/supply_chain.b633d1dceac57c323b29.png",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/poster.webp": "/static/media/poster.922ae0081ad6487448ba.webp",
     "static/media/movie_nagonus_award.webp": "/static/media/movie_nagonus_award.5f1e1cc055076c1cd7ba.webp",
@@ -17,6 +20,7 @@
     "static/media/queenburger.jpg": "/static/media/queenburger.e05f5fb1a219a26c66c8.jpg",
     "static/media/cookingnina.webp": "/static/media/cookingnina.b8c76d7d9e43b8afa60f.webp",
     "static/media/mysql.png": "/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/visitor.jpg": "/static/media/visitor.749186c58ea90062eec8.jpg",
     "static/media/postgresql-logo.png": "/static/media/postgresql-logo.4796a87af97b39ffd4e4.png",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/pet_service.webp": "/static/media/pet_service.1106251195b3e30af948.webp",
@@ -53,6 +57,7 @@
     "static/media/meee.jpg": "/static/media/meee.74ce6f5eabdbcbce1d5e.jpg",
     "static/media/bfoods.webp": "/static/media/bfoods.05d8e594f480f3dbe50f.webp",
     "static/media/logo.png": "/static/media/logo.5a9f013f459598fea2f0.png",
+    "static/media/herald.jpg": "/static/media/herald.e08b74be5ebe3416250f.jpg",
     "static/media/csharp.png": "/static/media/csharp.221dcba91bfe189e98c5.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.d5210cdeab1bc94309c4.png",
     "static/media/sales_table.xlsx": "/static/media/sales_table.82b668eaf38ad8f6400a.xlsx",
@@ -69,10 +74,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.5dd9eb53.js.map": "/static/js/main.5dd9eb53.js.map"
+    "main.420f8d2e.js.map": "/static/js/main.420f8d2e.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.5dd9eb53.js"
+    "static/js/main.420f8d2e.js"
   ]
 }
