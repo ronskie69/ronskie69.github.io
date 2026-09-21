@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.12c4cc3f.css",
-    "main.js": "/static/js/main.887d401d.js",
+    "main.js": "/static/js/main.db4f264f.js",
+    "static/media/random11.jpg": "/static/media/random11.0ae445b9cfa1ea0de68a.jpg",
     "static/media/random5.jpg": "/static/media/random5.927d310f020f4861e851.jpg",
     "static/media/guinness.jpg": "/static/media/guinness.19b5d01ae5a45bd90dce.jpg",
     "static/media/best_presenter.jpg": "/static/media/best_presenter.008f784afacbdd6eddc2.jpg",
     "static/media/supply_chain.png": "/static/media/supply_chain.b633d1dceac57c323b29.png",
+    "static/media/random6.jpg": "/static/media/random6.9483ced6e69de20af61d.jpg",
     "static/media/random4.jpg": "/static/media/random4.0fc41f11305b7cb5b7d7.jpg",
     "static/media/barbie_collage.jpg": "/static/media/barbie_collage.62c0ba6365718bfd828f.jpg",
     "static/media/random1.jpg": "/static/media/random1.5b6bfb912f81dc1ac453.jpg",
@@ -17,6 +19,8 @@
     "static/media/among_us_movie.webp": "/static/media/among_us_movie.a23e81909096af477007.webp",
     "static/media/dog.gif": "/static/media/dog.2ac2976672d4d15762ed.gif",
     "static/media/beach3.jpg": "/static/media/beach3.d8fb19b9321718171db3.jpg",
+    "static/media/random14.jpg": "/static/media/random14.403c5785da5c702e9b19.jpg",
+    "static/media/random13.jpg": "/static/media/random13.9b92065bb7c543c9f9db.jpg",
     "static/media/checklist.jpg": "/static/media/checklist.c810c6b092afc10ef2bf.jpg",
     "static/media/cw.jpg": "/static/media/cw.2fb370cdbfa9cba670d7.jpg",
     "static/media/covid.jpg": "/static/media/covid.67f479431e742933c6cb.jpg",
@@ -27,16 +31,21 @@
     "static/media/e-leave.png": "/static/media/e-leave.28251e53f8ec58d58ad0.png",
     "static/media/beach2.jpg": "/static/media/beach2.b237f0976da571d97b33.jpg",
     "static/media/resort.jpg": "/static/media/resort.69fe646955b2198fb45e.jpg",
+    "static/media/random8.jpg": "/static/media/random8.6d166920e3c41945f3bf.jpg",
     "static/media/xmas.jpg": "/static/media/xmas.201519bb69b260afd53a.jpg",
     "static/media/queenburger.jpg": "/static/media/queenburger.e05f5fb1a219a26c66c8.jpg",
+    "static/media/random9.jpg": "/static/media/random9.4a5a8574c05f68183185.jpg",
     "static/media/foodie.jpg": "/static/media/foodie.5aa259d075fbdeb33cef.jpg",
     "static/media/cookingnina.webp": "/static/media/cookingnina.b8c76d7d9e43b8afa60f.webp",
+    "static/media/random10.jpg": "/static/media/random10.f065460be5e0abdc1a2f.jpg",
     "static/media/kain.jpg": "/static/media/kain.6e3c7115f7ccd0e13565.jpg",
     "static/media/resort2.jpg": "/static/media/resort2.1217e77bdadfaefe564e.jpg",
+    "static/media/random12.jpg": "/static/media/random12.241f3e338d82fc12ac6e.jpg",
     "static/media/mysql.png": "/static/media/mysql.167c88550478e6f0f85c.png",
     "static/media/visitor.jpg": "/static/media/visitor.749186c58ea90062eec8.jpg",
     "static/media/postgresql-logo.png": "/static/media/postgresql-logo.4796a87af97b39ffd4e4.png",
     "static/media/beach.jpg": "/static/media/beach.2d8a227405ed41fa20f5.jpg",
+    "static/media/random7.jpg": "/static/media/random7.dfa51ce58eb48b8122e0.jpg",
     "static/media/resort3.jpg": "/static/media/resort3.909fb7310b648d4f2978.jpg",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/pet_service.webp": "/static/media/pet_service.1106251195b3e30af948.webp",
@@ -94,10 +103,10 @@
     "static/media/jslogo.png": "/static/media/jslogo.d0f0f447736f3b02129e.png",
     "index.html": "/index.html",
     "main.12c4cc3f.css.map": "/static/css/main.12c4cc3f.css.map",
-    "main.887d401d.js.map": "/static/js/main.887d401d.js.map"
+    "main.db4f264f.js.map": "/static/js/main.db4f264f.js.map"
   },
   "entrypoints": [
     "static/css/main.12c4cc3f.css",
-    "static/js/main.887d401d.js"
+    "static/js/main.db4f264f.js"
   ]
 }
